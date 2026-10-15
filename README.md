@@ -24,10 +24,12 @@ Currently looking for my first professional opportunity in software or web devel
 ## Projects
 
 - **Intervention Management Platform** — Symfony 7, PostgreSQL, Twig
-- **E-Commerce Web Application** — Symfony, Doctrine, SQLite
 - **Hotel Management Application** — C#, .NET MAUI, SQLite
+<!--
+- **E-Commerce Web Application** — Symfony, Doctrine, SQLite
 - **Text Adventure Game** — Java, Maven
-- **Excel Automation & Reporting** — VBA, Power BI
+- **Excel Automation & Reporting** — VBA, Power BI 
+-->
 
 *Project repositories and source code will be added progressively.*
 
